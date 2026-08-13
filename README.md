@@ -11,13 +11,13 @@ This project demonstrates how a simple registration process can be automated wit
 ### Workflow
 
 Google Form
-↓
+->
 Google Sheets
-↓
+->
 n8n Google Sheets Trigger
-↓
+->
 Gmail
-↓
+->
 Personalized Confirmation Email
 
 ## ✨ Features
