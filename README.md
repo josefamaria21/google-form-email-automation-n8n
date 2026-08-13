@@ -114,6 +114,21 @@ Possible improvements include:
 - Integration with other communication platforms
 - AI-generated personalized emails
 
+## 📚 What I Learned
+
+Through this project, I learned how to:
+
+- Build an automated workflow using **n8n**
+- Connect **Google Forms, Google Sheets, and Gmail** into a single automation
+- Configure and use **Google OAuth 2.0 authentication**
+- Set up a **Google Sheets Trigger** to detect newly added registration data
+- Use **n8n expressions** to dynamically extract the user's name and email address
+- Personalize automated emails using data received from a form submission
+- Create an event-driven workflow that runs automatically when new registration data is added
+- Work with **Gmail API** for automated email communication
+- Handle credentials securely without exposing sensitive information in a public repository
+- Document and share a no-code/low-code automation project using **GitHub**
+- Understand how automation can replace repetitive manual tasks without requiring traditional application code
 ## 👩‍💻 Author
 
 **Jo**
